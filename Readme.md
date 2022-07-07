@@ -60,4 +60,5 @@ prediction: 9->9
 pred: 0 0 0 0 0 0 0 0 0 0 255
 prediction: 10->10
 ```
+![result](./picture/result.png)
 [](Auther@Yixiao-Dong)
