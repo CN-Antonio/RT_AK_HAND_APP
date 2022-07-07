@@ -1,6 +1,7 @@
-# 
+# RT-AK手势分类项目
 
 ## 项目说明
+[](Auther@Yixiao-Dong)
 手势分类模型，检测图片中的手势类型  
 训练代码：[FireNet](https://github.com/Lebhoryi/FireNet-LightWeight-Network-for-Fire-Detection)
 ## 目录结构
@@ -59,3 +60,4 @@ prediction: 9->9
 pred: 0 0 0 0 0 0 0 0 0 0 255
 prediction: 10->10
 ```
+[](Auther@Yixiao-Dong)
